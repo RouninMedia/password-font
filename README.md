@@ -10,8 +10,8 @@ See:
 @font-face {
   font-family: 'password' ;
   font-display: block; 
-  src: url('/.assets/site/theme/elements/fonts/password.woff2') format('woff2'), /* Super Modern Browsers */
-       url('/.assets/site/theme/elements/fonts/password.woff') format('woff'); /* Pretty Modern Browsers */
+  src: url('/.assets/site/theme/elements/fonts/password/password.woff2') format('woff2'), /* Super Modern Browsers */
+       url('/.assets/site/theme/elements/fonts/password/password.woff') format('woff'); /* Pretty Modern Browsers */
 }
 
 .myObfuscatedTextInput {
